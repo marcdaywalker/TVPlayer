@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A9C0F950403BC1F1A868442C6FF908FA9D64C24",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9A9C0F950403BC1F1A868442C6FF908FA9D64C24" : 0,
+    "A5D0EB85B4328074AC6F39FDF05B286063B27526" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5C20A727-34DF-48F3-8859-39AA85EB219A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9A9C0F950403BC1F1A868442C6FF908FA9D64C24" : "TVPlayer\/",
+    "A5D0EB85B4328074AC6F39FDF05B286063B27526" : "mmapps\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TVPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TVPlayer\/TVPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/marcdaywalker\/TVPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A9C0F950403BC1F1A868442C6FF908FA9D64C24"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/marcdaywalker\/mmapps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5D0EB85B4328074AC6F39FDF05B286063B27526"
+    }
+  ]
+}
